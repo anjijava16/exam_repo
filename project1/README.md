@@ -4,3 +4,5 @@
 4. models.py
 5. schemas.py
 6. requirements.txt
+   
+uvicorn main:app --reload
